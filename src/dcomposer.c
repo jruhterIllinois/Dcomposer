@@ -1,3 +1,22 @@
+/*
+
+Description: This is the initial entry point into the dcomposer program, it uses open source mp3 encoder and fftw to generate 
+            spectrograms and extract critcal music information from the mp3 file
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
