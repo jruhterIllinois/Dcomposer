@@ -7,4 +7,6 @@ These contain generic POSIX calls that are built for speed on x86 architectures
 #Python
 Contains more recent mining techniques that utilize tensorflow lib calls
 
+This is very much a work in progress to compliment existing MIR projects that exist  
+
 
